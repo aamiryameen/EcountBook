@@ -1,0 +1,61 @@
+{
+  "name": "Aamir Yameen",
+  "AccountDefination": "Accounts Defination",
+  "AccountTransaction": "Account Transaction",
+  "AccountReport": "Account Report",
+  "Email": "aamiryameen0652@gmail.com",
+  "FinancialYear": "Financial Year",
+  "ApprovedDashboard": "Approved Dashboard",
+  "AccountsDashboard": "Accounts Dashboard",
+  "OpeningBalances": "Opening Balances",
+  "TaxScheduleMain": "Tax Schedule Main",
+  "TaxTypes": "Tax Types",
+  "Bank": "Bank",
+  "PaymentVoucher": "Payment Voucher",
+  "ReceiptVoucher": "Receipt Voucher",
+  "CreditVoucher": " journal Credit Voucher",
+  "JournalDebitVoucher": "Journal Debit Voucher",
+  "ContraVoucher": "Contra Voucher",
+  "ChartOfAccount": "Chart of Account",
+  "VoucherValidation": "Voucher Validation",
+  "VoucherActivity": "Voucher Activity",
+  "ActivitySummery": "Activity Summery",
+  "VouchersReport": "Vouchers Report",
+  "GeneralLedger": "General Ledger",
+  "TrialBalance": "Trial Balance",
+  "Payables": "Payables",
+  "Receivables": "Receivables",
+  "AccountStatement": "Account Statement",
+  "CashBookFlowStatement": "Cash Book Flow Statement",
+  "MonthlyTransactionBalances": "Monthly Transaction Balances",
+  "BalanceSheet": "Balance Sheet",
+  "DashboardAccount": "DashBoard Account",
+  "Description": "Description",
+  "cashEquivalent": "Cash Equivalent",
+  "RevenueAndSales": "Revenue and sales",
+  "OperatingExpense": "Operating expense",
+  "BankEquivalent": "Bank Equivalent",
+    
+  
+
+  "Opening": "Opening",
+  "CurrentDebit": "Current Debit",
+  "CurrentCredit": "Current Credit",
+  "Banlance": "Banlance",
+  "AccountDashboard": "Account Dashboard",
+
+
+          "FinancialYearList" :"Financial Year List",
+         
+          "AddFinancialYear" :"Add Financial Year",
+          "StartPeriod" :"Start Period",
+          "EndPeriod" :"End Period",
+          "Edit" :"Edit",
+          "EditFinancialYear":"Edit Financia Year",
+          "Code" :"Code",
+          "SaveChanges" :"Save Changes",
+          "Close" :"Close"
+
+
+
+}
